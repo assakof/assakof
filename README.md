@@ -25,7 +25,7 @@ Le code de ces projets est privé, mais chaque dépôt a un dossier `extraits/` 
 
 ### Recherche
 
-- **Vectoriser des plans scannés** (mémoire de licence). Ici beaucoup de plans ne sont que des photos ou des scans de papier. Sans la géométrie, impossible d'automatiser le calcul thermique. Je travaille sur une chaine en vision classique (Python) qui sort les segments de mur d'une image.
+- **Vectoriser des plans scannés** . Ici beaucoup de plans ne sont que des photos ou des scans de papier. Sans la géométrie, impossible d'automatiser le calcul thermique. Je travaille sur une chaine en vision classique (Python) qui sort les segments de mur d'une image.
 - **Charge de climatisation en climat chaud** : adapter les méthodes (ISO 6946, EN 12831, apports solaires sol-air) aux bâtiments et à la météo d'Afrique de l'Ouest, et valider contre des cas réels.
 
 ### Publications / notes
@@ -38,4 +38,4 @@ Des petites notes que j'écris quand je galère sur un truc ou que j'apprends qu
 
 ---
 
-Me contacter : WhatsApp 90 69 65 37 / 92 47 78 39
+Me contacter : WhatsApp 72 04 91 80 / 92 47 78 39
